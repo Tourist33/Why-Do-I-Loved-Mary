@@ -1,0 +1,54 @@
+.class1 {
+    font-size: 30px;
+    color: blue;
+}
+.class3 {
+    color :black
+}
+.class-button{
+    font-size: 20px;
+    background-color: brown;
+    color: antiquewhite;
+}
+.gradient{
+    
+        
+        background: linear-gradient(to top, #ec4444, #4a998e);
+        padding: 50px;
+        border: 1px solid #333;
+       
+}
+.gradient2 {
+    background: linear-gradient(to top, rgb(230, 69, 69), #64AECE);
+        padding: 10px;
+        border: 1px solid #333;
+}
+.column {
+    -webkit-column-width: 100px;
+    -moz-column-width: 100px;
+    column-width: 100px;
+    -webkit-column-count: 2;
+    -moz-column-count: 2;
+    column-count: 2;
+    -webkit-column-gap: 10px;
+    -moz-column-gap: 10px;
+    column-gap: 30px;
+    -webkit-column-rule: 1px solid #ccc;
+    -moz-column-rule: 1px solid #ccc;
+    column-rule: 1px solid #ccc;
+   }
+   .text {
+    color: rgb(46, 46, 248);
+   }
+.classlink {
+    color: aliceblue;
+}
+.classlink2 {
+    color: rgb(1, 147, 120);
+}
+.classlink3 {
+    color: rgb(94, 200, 121);
+}
+.classlink4 {
+    color: rgb(230, 242, 59);
+}
